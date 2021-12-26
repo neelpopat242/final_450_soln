@@ -27,6 +27,7 @@ int main()
 {   
     
     srand(time(0));
+
     int n=rand()%10; 
    
     int a[n] ;
